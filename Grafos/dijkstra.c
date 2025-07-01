@@ -7,7 +7,7 @@
  *         ██████    ██    ██      ██      ██   ██        *
  *                                                        *
  *        Estudante: Giovanni Mioto - RA: 2603454         *
- *        Exercício 2 - ED2: Tabela Hash                  *
+ *        Exercício 3 - ED2: Grafos e dijkstra            *
  *                                                        *
  **********************************************************/
 
